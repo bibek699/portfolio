@@ -1,7 +1,7 @@
 import About from "./assets/Components/About"
 import Contact from "./assets/Components/Contact"
 import Home from "./assets/Components/Home"
-import Navbar from "./assets/Components/navbar"
+import Navbar from "./assets/Components/Navbar"
 import Project from "./assets/Components/Project"
 
 function App() {
